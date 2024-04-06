@@ -25,4 +25,4 @@ Technologies Used
 
     LiveBlock Library: The LiveBlock library is utilized to implement real-time collaboration capabilities in ShareVision, enabling synchronized editing and communication among users.
 
-<!-- It is implemented to understand real time collaboration using LiveBlocks as per adrian's creation of live figma -->
+It is implemented to understand real time collaboration using LiveBlocks as per adrian's creation of live figma
